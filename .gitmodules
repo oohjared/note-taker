@@ -1,0 +1,3 @@
+[submodule "note-taker"]
+path = note-taker
+url = https://github.com/oohjared/note-taker.git
